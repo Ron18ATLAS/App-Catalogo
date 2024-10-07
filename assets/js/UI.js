@@ -46,7 +46,7 @@ class UI{
         container.insertBefore(div, app);
           setTimeout(function(){
             document.querySelector(".alert").remove();
-            },2000)
+            },3000)
 
     }
 }
